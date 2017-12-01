@@ -9,5 +9,3 @@
 4. Show up to court! The resisters need your actual, in-person support. Showing up on this day and just being there in the back of the courtroom, in numbers, will show we have a strong community ready to fight for what is right! Showing up also helps the resisters know we actually really have their backs. Tuesday, December 12th, 9am at 850 Bryant in SF.
 
 Please also join us on social media!
-
-<div class="fb-follow" data-href="https://www.facebook.com/J20Resisters/" data-width="200" data-height="200" data-layout="standard" data-size="small" data-show-faces="true"></div>
