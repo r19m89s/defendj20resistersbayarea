@@ -31,13 +31,10 @@
 	<hr/>
         <section id="main_content">
           {{ content }}
-	  <ul>
-		 {% if site.facebook_username %}
-		  <li>
-		    <a href="https://www.facebook.com/{{ site.facebook_username }}">
+		{% if site.facebook_username %}
+		<a href="https://www.facebook.com/{{ site.facebook_username }}">
 		      <i class="fa fa-facebook"></i> Friends of J20 Resistors
 		    </a>
-		  </li>
 		{% endif %}
 	  </ul>
         </section>
