@@ -6,6 +6,7 @@
     <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -30,13 +31,10 @@
 	<hr/>
         <section id="main_content">
           {{ content }}
-	  <ul>
-		 {% if site.facebook_username %}
-		  <li>
-		    <a href="https://www.facebook.com/{{ site.facebook_username }}">
-		      <i class="fa fa-facebook"></i> Facebook
+		{% if site.facebook_username %}
+		<a href="https://www.facebook.com/{{ site.facebook_username }}">
+		      <i class="fa fa-facebook"></i> Friends of J20 Resistors
 		    </a>
-		  </li>
 		{% endif %}
 	  </ul>
         </section>
