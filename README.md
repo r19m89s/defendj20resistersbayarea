@@ -8,6 +8,6 @@
 
 4. Show up to court! The resisters need your actual, in-person support. Showing up on this day and just being there in the back of the courtroom, in numbers, will show we have a strong community ready to fight for what is right! Showing up also helps the resisters know we actually really have their backs. Tuesday, December 12th, 9am at 850 Bryant in SF.
 
-5. Please sign the petition located here: https://actionnetwork.org/petitions/add-your-name-to-tell-sf-district-attorney-drop-the-charges-against-inauguration-day-protesters?source=facebook.
+5. Please sign our  <a href='https://actionnetwork.org/petitions/add-your-name-to-tell-sf-district-attorney-drop-the-charges-against-inauguration-day-protesters?source=facebook'>petition</a>.
 
 Please also join us on social media!
